@@ -1,4 +1,10 @@
 
+
+//(c) Igor Golubovskiy 2021
+//Cycle accurate 6502 core without decimal mode (NES version)
+//You can use it whatever you want
+
+
 module tot6502(
 
 	input  clk,
